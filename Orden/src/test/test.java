@@ -18,6 +18,8 @@ public class test {
         orden1.agregarProducto(producto);
         
         orden1.toString();
+        orden1.toString();
+        orden1.toString();
         
         
         
